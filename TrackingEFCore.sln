@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingEFCore", "TrackingEFCore.csproj", "{CA923125-74E7-41F4-842F-B9AA9167F70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA923125-74E7-41F4-842F-B9AA9167F70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA923125-74E7-41F4-842F-B9AA9167F70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA923125-74E7-41F4-842F-B9AA9167F70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA923125-74E7-41F4-842F-B9AA9167F70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {505945BE-C3D1-4FC7-8090-0747F102F974}
+	EndGlobalSection
+EndGlobal
